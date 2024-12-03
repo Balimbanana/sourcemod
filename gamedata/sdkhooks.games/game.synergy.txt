@@ -66,13 +66,13 @@
 			}
 			"ShouldCollide"
 			{
-				"windows"	"17"
+				"windows"	"16"
 				"linux"		"17"
 				"mac"		"17"
 			}
 			"Spawn"
 			{
-				"windows"	"23"
+				"windows"	"22"
 				"linux"		"23"
 				"mac"		"23"
 			}
@@ -84,7 +84,7 @@
 			}
 			"Think"
 			{
-				"windows"	"48"
+				"windows"	"47"
 				"linux"		"48"
 				"mac"		"48"
 			}
@@ -96,7 +96,7 @@
 			}
 			"TraceAttack"
 			{
-				"windows"	"61"
+				"windows"	"60"
 				"linux"		"61"
 				"mac"		"61"
 			}
